@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jacobi", "Jacobi\Jacobi.csproj", "{FED3F7C7-8C42-4A59-B1AF-6894C32D106C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JacobiApi", "JacobiApi\JacobiApi.csproj", "{F77C0376-0B8D-4B14-B271-3E101525FA4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JacobiApiTests", "JacobiApiTests\JacobiApiTests.csproj", "{0B1B039C-603E-433C-82B6-E31B762C9F14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FED3F7C7-8C42-4A59-B1AF-6894C32D106C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED3F7C7-8C42-4A59-B1AF-6894C32D106C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED3F7C7-8C42-4A59-B1AF-6894C32D106C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED3F7C7-8C42-4A59-B1AF-6894C32D106C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F77C0376-0B8D-4B14-B271-3E101525FA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F77C0376-0B8D-4B14-B271-3E101525FA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F77C0376-0B8D-4B14-B271-3E101525FA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F77C0376-0B8D-4B14-B271-3E101525FA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B1B039C-603E-433C-82B6-E31B762C9F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1B039C-603E-433C-82B6-E31B762C9F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1B039C-603E-433C-82B6-E31B762C9F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1B039C-603E-433C-82B6-E31B762C9F14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72A32194-65DE-4220-875A-945F8FACD18D}
+	EndGlobalSection
+EndGlobal
